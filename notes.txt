@@ -1,0 +1,11 @@
+
+
+CRUD = CREAT READ UPDATE DELETE
+READ = SELECT * FROM students;
+SELECT name, roll FROM STUDENTS;
+SELECT * FROM students WHERE roll=1;
+SELECT * FROM students WHERE address=address;
+
+
+UPDATE = UPDATE students SET phone=number WHERE id=number;
+DELETE = DELETE FROM students WHERE id= id number;
